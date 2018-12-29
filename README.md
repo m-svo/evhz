@@ -17,4 +17,4 @@ use USB ports that use the ehci-pci driver.
 
 Maintainer: Ian Kelling <ian@iankelling.org>
 
-Bugs, patches, requests, feedback are welcome.
+Bugs, patches, requests, feedback are welcome. [Link to source](https://gitlab.com/iankelling/evhz)
